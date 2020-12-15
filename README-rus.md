@@ -1,7 +1,7 @@
 # Обучение GAN на примере ARShadowGAN-like архитектуры
 ![Alt text](imgs/demo-rus.png?raw=true "Title")
 ### Colab Notebook
-PyTorch Colab notebook: <a href="https://colab.research.google.com/drive/1fZl1Pb-qWa6OZQgJ-9SMBm8Dd_WY1fsq?usp=sharing">ARShadowGAN-like</a>
+PyTorch Colab notebook: <a href="https://colab.research.google.com/drive/159bHQiaVhs8t5J_3DqwFrlgTF2YTHrbO?usp=sharing">ARShadowGAN-like</a>
 ### Зависимости
 * Python 3
 * CPU or NVIDIA GPU + CUDA CuDNN
