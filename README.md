@@ -9,7 +9,7 @@ PyTorch Colab notebook: <a href="https://colab.research.google.com/drive/1fZl1Pb
 #### Installation
 * Clone this repo:
 ```bash
-git clone git@github.com:artyomnaz/arshadowgan.git
+git clone https://github.com/Everypixel/arshadowgan-like.git
 cd arshadowgan
 ```
 * Install dependencies (e.g., segmentation_models_pytorch, ...)
