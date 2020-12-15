@@ -1,0 +1,10 @@
+albumentations==0.5.1
+matplotlib==3.2.1
+numpy==1.18.4
+opencv-python>=3.4.5.20
+piq==0.5.1
+segmentation_models_pytorch==0.1.0
+tensorboard==2.2.1
+torch>=1.5.0
+torchvision>=0.6.0
+tqdm>=4.41.1

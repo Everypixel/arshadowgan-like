@@ -1,0 +1,15 @@
+python3 src/train_SG.py \
+    --dataset_path '/content/arshadowgan/dataset/' \
+    --Gmodel_path '/content/drive/MyDrive/SG_generator.pth' \
+    --Dmodel_path '/content/drive/MyDrive/SG_discriminator.pth' \
+    --batch_size 18 \
+    --seed 42 \
+    --img_size 256 \
+    --lr_G 1e-4 \
+    --lr_D 1e-6 \
+    --n_epoch 200 \
+    --betta1 10 \
+    --betta2 1 \
+    --betta3 1e-2 \
+    --patience 10 \
+    --encoder 'resnet18'
